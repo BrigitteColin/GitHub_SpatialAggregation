@@ -12,7 +12,7 @@ Please use/download the
 - Guide to the gbm package by Greg Ridgeway, http://www.saedsayad.com/docs/gbm2.pdf
 - Guide on Package ‘gbm’, March 21, 2017, https://cran.r-project.org/web/packages/gbm/gbm.pdf
 - R file containing the extraction code (name: Mean_Extraction_Code.R)
-- spatial grid in 1:3000 as a GIS shape file (name: 3k.shp)
+- spatial grid in 1:3000 as a GIS shape file (name: 3k.shp, containing 7 subfiles)
 - one FCover scene (name: Masked_l4tmre_p102r072_19881120_dilm3.img)
 
 Extraction code:
