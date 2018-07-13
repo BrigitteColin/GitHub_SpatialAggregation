@@ -2,7 +2,7 @@
 
 
 Project Title: 
-Here we provide the R code for delineating FCover information using an evenly spread grid as on overlay that will be used to aggregation all fractions within the grid cell to one value, using the arithmetic mean. The code has been used for our paper with the title "Influence of Spatial Aggregation on Prediction Accuracy of Green Vegetation using Boosted Regression Trees". 
+Here we provide the R code for delineating FCover information using an evenly spaced grid as on overlay that will be used to aggregate all fractions within the grid cell to one value, using the arithmetic mean. The code has been used for our paper with the title "Influence of Spatial Aggregation on Prediction Accuracy of Green Vegetation using Boosted Regression Trees". 
 
 Getting Started:
 Please use/download the 
@@ -16,7 +16,7 @@ Please use/download the
 - one FCover scene (name: Masked_l4tmre_p102r072_19881120_dilm3.img)
 
 Extraction code:
-Take the "Mean_Extraction_Code" and open it. Set absolute/relative path to your working environment (including working directiory). The extraction can take between 7 and 9 hours per scene. 
+Take the "Mean_Extraction_Code" and open it. Set absolute/relative path to your working environment (including working directory). The extraction can take between 7 and 9 hours per scene. 
 
 Versioning:
 The computational environment was the R statistical modelling software version 3.3.3 running inside Windows 7 SP1 (64-bit) on a 2.60 GHz Intel i7 CPU with 16 GB of RAM. 
